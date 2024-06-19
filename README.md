@@ -14,6 +14,8 @@ Version: 1.1 Release date: 2024-06-18
 
 <img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/e0370adb-f55e-416e-bf8f-9d5e19e2647c" width="80%" height="80%">
 
+
+
 ## Details on hypertension modelling
 ```
 - Hypertension is a serious medical condition that affects over a billion people worldwide
