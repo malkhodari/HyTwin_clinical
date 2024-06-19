@@ -12,9 +12,7 @@ Version: 1.1 Release date: 2024-06-18
 
 <img src="https://github.com/malkhodari/HyTwin_clinical/assets/62998803/0ccb9248-a4a2-4351-9099-d34db08b0e3d" width="80%" height="80%">
 
-<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/e0370adb-f55e-416e-bf8f-9d5e19e2647c" width="80%" height="80%">
-
-
+<img src="https://github.com/malkhodari/HyTwin_clinical/assets/62998803/36f3b48a-2915-42b0-a9bd-927f9862cbf5" width="80%" height="80%">
 
 ## Details on hypertension modelling
 ```
