@@ -33,6 +33,15 @@ Version: 1.0 Release date: 2024-06-18
 Coming soon!
 ```
 
+## For Webapp use
+
+[<img src="hyperlink3.png" width="16.35%" height="16.35%">
+]()
+
+```
+Coming soon!
+```
+
 ## For online installation
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)]()
 
